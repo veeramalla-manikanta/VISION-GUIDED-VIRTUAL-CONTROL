@@ -162,14 +162,6 @@ Ensure that your webcam is connected and accessible before running the program.
 
 ---
 
-## 📸 Demo
-
-Add screenshots, GIFs, or videos demonstrating the system here.
-
-```markdown
-![Demo Screenshot](demo.png)
-```
-
 ---
 
 ## 📋 Requirements
